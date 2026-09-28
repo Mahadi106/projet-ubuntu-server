@@ -84,4 +84,6 @@ Trois pannes ont été simulées volontairement pour illustrer la démarche **sy
 2. **Permissions cassées sur `index.html`** (`chmod 000`) → erreur 403 → corrigé avec `chmod 644`
 3. **Conflit de règles UFW** (`ufw deny http` ajoutée après une règle `allow`) → observation que l'ordre des règles UFW est déterminant (la première règle correspondante l'emporte) → nettoyage avec `ufw delete deny http`
 
- 
+## Rapport complet
+
+Le rapport détaillé est disponible ici : https://github.com/Mahadi106/projet-ubuntu-server/blob/main/Rapport_Projet_Systemes.pdf 
