@@ -86,4 +86,4 @@ Trois pannes ont été simulées volontairement pour illustrer la démarche **sy
 
 ## Rapport complet
 
-Le rapport détaillé est disponible ici : https://github.com/Mahadi106/projet-ubuntu-server/blob/main/Rapport_Projet_Systemes.pdf 
+Le rapport détaillé est disponible ici :  https://github.com/Mahadi106/projet-ubuntu-server/blob/main/Rapport_Projet_Ubuntu_Server.pdf
